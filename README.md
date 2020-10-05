@@ -15,7 +15,7 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/pablo2p/nextjs-estudos
 
 # Access the repository
 $ cd youtube-nextjs-design-system
